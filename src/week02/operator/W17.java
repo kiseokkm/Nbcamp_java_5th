@@ -1,6 +1,4 @@
-package week02;
-
-import java.util.Scanner;
+package week02.operator;
 
 public class W17 {
     public static void main(String[] args) {
